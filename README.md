@@ -18,7 +18,7 @@ E-Commerce
    
 ### Learnings
 
-Dashboard Development
+# . Dashboard Development
 Calculated Field
 Custom Charts and its Formatting
 Conditional Formatting
