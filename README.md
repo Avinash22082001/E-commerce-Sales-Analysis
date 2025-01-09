@@ -15,48 +15,17 @@ E-Commerce
 3. To determine the Top Paying customers so that special Premium discount can be offered to such clients.
 4. To find the Best Selling Products among the different segments
 5. To determine the YOY growth for multiple Key Metrics.
-   
-### Learnings
-
-Dashboard Development
-Calculated Field
-Custom Charts and its Formatting
-Conditional Formatting
-YoY calculation
-Sparklines
-Filters and Sorting
-Pivot Table
-Brief Description of the dataset
-Fields and its Description
-Order Date- Date on which customer has placed the order
-Ship Date- Shipment date of placed order
-Ship Mode- Mode of shipment- Same Day/First Class/Second Class/Standard
-Customer Id- Unique Customer Id
-Segment- Consumer/Home Office/Corporate
-Country- Country Name of customer
-City- Customer's City
-State- Customer's State
-Postal Code- Pincode of the customer
-Region- Main Region acc. to Country
-Product ID- Unique Product ID
-Category- Category of the product
-Sub Category- Sub-Category of the product
-Product Name- Name of the Product which is ordered
-Sales- Sales value by that product sold
-Quantity- No. of quantities ordered
-Discount- Offer/Discount % on that product
-Profit- Profit earned value from product's order
 
 ### Dashboard Outcomes
 
-Conducted in-depth data analysis on E-commerce Sales Data to gain some meaningful insights for each region and segment.
+1. Conducted in-depth data analysis on E-commerce Sales Data to gain some meaningful insights for each region and segment.
 
-Developed an interactive dashboard with 5 KPIs,multiple filters and 6 dynamic charts in Excel.
+2. Developed an interactive dashboard with 5 KPIs,multiple filters and 6 dynamic charts in Excel.
 
-Created a Combo Chart for showcasing Sales of the products and Profits from each month.
+3. Created a Combo Chart for showcasing Sales of the products and Profits from each month.
 
-Determined the Best Selling Products and the Top 5 Premium Customers.
+4. Determined the Best Selling Products and the Top 5 Premium Customers.
 
-Build a Pie Chart and Column Chart for Category-wise Profit and Sales respectively.
+5. Build a Pie Chart and Column Chart for Category-wise Profit and Sales respectively.
 
-Implemented Map Chart for showcasing Sales by State.
+6. Implemented Map Chart for showcasing Sales by State.
