@@ -8,19 +8,15 @@ E-commerce is one of the fastest growing sector as now-a-days most of the custom
 
 E-Commerce
 
-Business Requirements
+### Business Requirements
 
-To find the Total Sales of all the orders over 12 months for each region and segment.
-To analyse the product's Category-wise Profit and Sales and prepare a chart for the Sales and Profit Pattern for various months.
-To determine the Top Paying customers so that special Premium discount can be offered to such clients.
-To find the Best Selling Products among the different segments
-To determine the YOY growth for multiple Key Metrics.
-Installation of the Project
-
-Download the workbook named as 'Ecommerce Sales Analysis'
-'Data' Sheet represents the combined data of all the orders of all regions,customers,sales,countries.
-'Dashboard' Sheet represents the main dynamic dashboard of the application with 6interactive charts, 5 KPIs and filter for ship mode and region.
-Learnings
+1. To find the Total Sales of all the orders over 12 months for each region and segment.
+2. To analyse the product's Category-wise Profit and Sales and prepare a chart for the Sales and Profit Pattern for various months.
+3. To determine the Top Paying customers so that special Premium discount can be offered to such clients.
+4. To find the Best Selling Products among the different segments
+5. To determine the YOY growth for multiple Key Metrics.
+   
+### Learnings
 
 Dashboard Development
 Calculated Field
@@ -51,7 +47,7 @@ Quantity- No. of quantities ordered
 Discount- Offer/Discount % on that product
 Profit- Profit earned value from product's order
 
-Dashboard Outcomes (Tasks Accomplished)
+### Dashboard Outcomes
 
 Conducted in-depth data analysis on E-commerce Sales Data to gain some meaningful insights for each region and segment.
 Developed an interactive dashboard with 5 KPIs,multiple filters and 6 dynamic charts in Excel.
